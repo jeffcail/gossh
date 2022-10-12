@@ -1,8 +1,8 @@
 package _const
 
 const (
-	Address  = "192.168.0.40"
+	Address  = "xxx.xxx.x.xx"
 	Port     = ":22"
-	Name     = "root"
-	Password = "112233"
+	Name     = "xxx"
+	Password = "xxx"
 )
